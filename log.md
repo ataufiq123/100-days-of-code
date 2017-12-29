@@ -35,14 +35,14 @@
 **Thoughts** I want to learn about use API in React-native
 
 **Link(s) to work**
-1. [To Do Apps](https://github.com/ataufiq123/albums-app)
+1. [AlbumList](https://github.com/ataufiq123/albums-app)
 
 
-### Day 3: December 28 2017, Thursday
+### Day 5: December 28 2017, Thursday
 
 **Today's Progress**: today i add album List and learn about get API
 
 **Thoughts** I want to learn about use API in React-native
 
 **Link(s) to work**
-1. [To Do Apps](https://github.com/ataufiq123/albums-app)
+1. [AlbumList](https://github.com/ataufiq123/albums-app)
