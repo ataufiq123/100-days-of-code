@@ -26,3 +26,23 @@
 
 **Link(s) to work**
 1. [To Do Apps](https://github.com/ataufiq123/react-native-todos-app)
+
+
+### Day 4: December 27 2017, Wednesday
+
+**Today's Progress**: Today I just add about styling and learn about props. this project I want to create a project that gets API, 
+
+**Thoughts** I want to learn about use API in React-native
+
+**Link(s) to work**
+1. [To Do Apps](https://github.com/ataufiq123/albums-app)
+
+
+### Day 3: December 28 2017, Thursday
+
+**Today's Progress**: today i add album List and learn about get API
+
+**Thoughts** I want to learn about use API in React-native
+
+**Link(s) to work**
+1. [To Do Apps](https://github.com/ataufiq123/albums-app)
